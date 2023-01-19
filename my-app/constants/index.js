@@ -1,5 +1,5 @@
 // Address of the Whitelist Contract that you deployed
-const NFT_CONTRACT_ADDRESS = "0xb188e716b578D3e2C56AAaead5f1cb27C7Cb873D";
+const NFT_CONTRACT_ADDRESS = "0x87A3D4F0196571269ab38Ef06F606567C803156e";
 // URL to extract Metadata for a Crypto Dev NFT
 const abi = [
   {
